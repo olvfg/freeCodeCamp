@@ -9,7 +9,7 @@ kernel. The defining component of a Linux distribution is the Linux kernel, an o
 1991 by Linus Torvalds. Many Linux distributions use the word "Linux" in their name. The Free Software Foundation uses the name
 GNU/Linux to refer to the operating system family, as well as specific distributions, to emphasize that most Linux distributions are not
 just the Linux kernel, and that they have in common not only the kernel, but also numerous utilities and libraries, a large proportion
-of which are from the GNU project. 
+of which are from the GNU (GNU is a recursive acronym for "GNU's Not Unix") project. 
 
 The development of Linux is one of the most prominent examples of free and open-source software collaboration. The underlying source
 code may be used, modified and distributed commercially or non-commercially by anyone under the terms of its respective licenses, such
@@ -21,7 +21,7 @@ mid 90s. Today, Linux is the most popular operating system in the world. It powe
 Google's popular Android operating system.
 
 There are also many versions of Linux designed to be run on personal computers, such as Debian or Ubuntu. More importantly, these
-different versions of Linux (called distributions) allow the user varying degrees of personalization and control of the operating
+different versions of Linux (called distributions or distros) allow the user varying degrees of personalization and control of the operating
 system. This means that users can choose their Linux distributions based on their wants and needs.  
 
 There is also Kali Linux which is used for advanced penetration testing and auditing. It has over 700 tools, to be able to use it
@@ -34,6 +34,7 @@ Popular distributions of Linux include:
 * CentOS
 * RHEL
 * Arch Linux
+* Fedora
 
 Package types are split between higher-level distributions, with Debian (.deb) and Red Hat (.rpm) being two of the most commonly used,
 however there are others including Pacman (used for Arch Linux) and PetGet (Puppy Linux).
